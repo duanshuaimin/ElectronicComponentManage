@@ -1,0 +1,12 @@
+E:\ZNL\ZNLCRM.Entity\bin\Release\ZNLCRM.Entity.dll
+E:\ZNL\ZNLCRM.Entity\bin\Release\ZNLCRM.Entity.pdb
+E:\ZNL\ZNLCRM.Entity\bin\Release\MySoft.Data.dll
+E:\ZNL\ZNLCRM.Entity\bin\Release\ZNLCRM.Utility.dll
+E:\ZNL\ZNLCRM.Entity\bin\Release\ZNLFrame.Entity.dll
+E:\ZNL\ZNLCRM.Entity\bin\Release\log4net.dll
+E:\ZNL\ZNLCRM.Entity\bin\Release\ZNLCRM.Utility.pdb
+E:\ZNL\ZNLCRM.Entity\obj\x86\Release\ZNLCRM.Entity.csprojResolveAssemblyReference.cache
+E:\ZNL\ZNLCRM.Entity\obj\x86\Release\ZNLCRM.Entity.Properties.Resources.resources
+E:\ZNL\ZNLCRM.Entity\obj\x86\Release\ZNLCRM.Entity.csproj.GenerateResource.Cache
+E:\ZNL\ZNLCRM.Entity\obj\x86\Release\ZNLCRM.Entity.dll
+E:\ZNL\ZNLCRM.Entity\obj\x86\Release\ZNLCRM.Entity.pdb

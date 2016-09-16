@@ -1,0 +1,17 @@
+E:\ZNL\ZNLCRM.Server\obj\Release\ZNLCRM.Server.csprojResolveAssemblyReference.cache
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.Server.dll.config
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.Server.dll
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.Server.pdb
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.BLL.dll
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.Entity.dll
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.Utility.dll
+E:\ZNL\ZNLCRM.Server\bin\ZNLFrame.Entity.dll
+E:\ZNL\ZNLCRM.Server\bin\ZNLFrame.Entry.dll
+E:\ZNL\ZNLCRM.Server\bin\ZNLFrame.DB.dll
+E:\ZNL\ZNLCRM.Server\bin\MySoft.Data.dll
+E:\ZNL\ZNLCRM.Server\bin\log4net.dll
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.BLL.pdb
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.Entity.pdb
+E:\ZNL\ZNLCRM.Server\bin\ZNLCRM.Utility.pdb
+E:\ZNL\ZNLCRM.Server\obj\Release\ZNLCRM.Server.dll
+E:\ZNL\ZNLCRM.Server\obj\Release\ZNLCRM.Server.pdb

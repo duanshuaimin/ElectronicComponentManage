@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tables>
+  <table name="HR_Org" desc="机构">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="HR_Department" desc="部门">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="HR_Employee" desc="员工资料">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="CRM_Company" desc="子公司信息库">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="CRM_JobMast" desc="工作报告">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="Sys_AttachFiles" desc="附件">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="SYS_UserGridColIndex" desc="表格索引">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="SYS_UserGridColName" desc="表格列名">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="SYS_UserGridColWidth" desc="表格列宽">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="SYS_DataGrid" desc="表格">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="Sys_Seed" desc="种子值">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="SYS_CredentialCodeRule" desc="编码规格表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="Sys_Menu" desc="系统菜单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="Sys_Module" desc="系统模块">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="Sys_EmpRight" desc="员工权限">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="Sys_FormRight" desc="窗体权限">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="Sys_EmpDataRight" desc="数据权限">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="Sys_Roles" desc="系统角色">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="Sys_RoleRight" desc="角色权限">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="Sys_Report" desc="报表工具主表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="Sys_ReportSection" desc="报表工具带区">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="Sys_ReportElements" desc="报表工具带区元素">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="CRM_CompanyContact" desc="公司联系人">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="CRM_CustComplain" desc="客户竞争对手">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="CRM_VisitPlan" desc="拜访计划">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="CRM_VisitPlanLine" desc="拜访结果">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="CRM_Zone" desc="区域">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="FIN_CashBankAccount" desc="银行帐户">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="FIN_CashBankJournal" desc="银行流水">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="FIN_SubmitExpense" desc="费用报销">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="FIN_SubmitExpenseLine" desc="费用报销明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="SYS_Currency" desc="币种信息">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="ORD_SalesOrder" desc="销售订单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="ORD_SalesOrderLine" desc="销售订单明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="ORD_SalesReturn" desc="销售退货单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="ORD_SalesReturnLine" desc="销售退货明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="ORD_PurchaseOrder" desc="采购订单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="ORD_PurchaseOrderLine" desc="采购订单明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="ORD_PurchaseReturn" desc="采购退货单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="ORD_PurchaseReturnLine" desc="采购退货明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="ORD_PurchaseNotice" desc="销售通知采购通知">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="STK_Gift" desc="礼品基准">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_GiftIn" desc="礼品入库主单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_GiftInLine" desc="礼品入库明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  
+  <table name="STK_GiftOut" desc="礼品出库主单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_GiftOutLine" desc="礼品出库明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  
+  <table name="SYS_DictItem" desc="数据字典主单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="SYS_DictItemLine" desc="数据字典明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="SYS_Message" desc="系统消息">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  
+
+  <table name="STK_In" desc="入库主表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_InLine" desc="入库明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="STK_Out" desc="出库主表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_OutLine" desc="出库明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  
+  <table name="STK_Stock" desc="库存明细表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_StockSheet" desc="库存流水">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_StockTtl" desc="库存汇总表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+  <table name="STK_StockPriceRange" desc="库存价格表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_StockReserve" desc="库存预留表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="STK_InOutLink" desc="出入库关联表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  
+
+
+  <table name="WF_AuditBill" desc="审批基准表单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="WF_AuditBillLine" desc="审批基准明细表单">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="WF_Fun" desc="审批函数主表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="WF_FunLine" desc="审批函数明细表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="WF_AuditRecord" desc="审批记录">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="WF_Table" desc="审批基准业务定义表">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="WF_TableFields" desc="审批基准业务定义表明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="WF_AuditRecordLine" desc="审批记录明细">
+    <atdb name="ZNLCRM"  con="server=192.168.1.2;Database=ZNLCRM;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+
+
+  <table name="SYS_ChargeRecord" desc="充值记录">
+    <atdb name="ZNLCRM_Account"  con="server=192.168.1.2;Database=ZNLCRM_Account;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="SYS_CompanyInfo" desc="注册公司资料">
+    <atdb name="ZNLCRM_Account"  con="server=192.168.1.2;Database=ZNLCRM_Account;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="SYS_SignLogInfo" desc="登录日志">
+    <atdb name="ZNLCRM_Account"  con="server=192.168.1.2;Database=ZNLCRM_Account;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+  <table name="SYS_UserAccount" desc="登录用户帐号">
+    <atdb name="ZNLCRM_Account"  con="server=192.168.1.2;Database=ZNLCRM_Account;Uid=zErp_dbo;Pwd=znl_erp" />
+  </table>
+</tables>

@@ -1,0 +1,8 @@
+E:\ZNL\ZNLCRM.Utility\bin\Release\ZNLCRM.Utility.dll
+E:\ZNL\ZNLCRM.Utility\bin\Release\ZNLCRM.Utility.pdb
+E:\ZNL\ZNLCRM.Utility\bin\Release\log4net.dll
+E:\ZNL\ZNLCRM.Utility\obj\x86\Release\ZNLCRM.Utility.csprojResolveAssemblyReference.cache
+E:\ZNL\ZNLCRM.Utility\obj\x86\Release\ZNLCRM.Utility.Properties.Resources.resources
+E:\ZNL\ZNLCRM.Utility\obj\x86\Release\ZNLCRM.Utility.csproj.GenerateResource.Cache
+E:\ZNL\ZNLCRM.Utility\obj\x86\Release\ZNLCRM.Utility.dll
+E:\ZNL\ZNLCRM.Utility\obj\x86\Release\ZNLCRM.Utility.pdb
